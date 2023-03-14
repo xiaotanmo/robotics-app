@@ -1,7 +1,7 @@
 """Template test module."""
 import pytest
-from amiga_package import __version__
-from amiga_package import ops
+from robotics-app import __version__
+from robotics-app import ops
 
 # import the internal libs and test
 
